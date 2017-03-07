@@ -78,7 +78,7 @@ public class FXMLDocumentController implements Initializable {
         transitions[13][0] = 0;
         transitions[13][1] = 0;
         transitions[13][2] = 0;
-
+        System.out.println("The following are the state transitions:");
     }
 
     @FXML
